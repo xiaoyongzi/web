@@ -1,2 +1,9 @@
 markdown: rdiscount
 pygments: true
+safe : true
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-16390014-2'
+  getclicky :
+    site_id :
